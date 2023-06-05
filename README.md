@@ -122,13 +122,6 @@ sudo docker container logs aiom
 - You can edit the format of uploaded message for Track/Album/Playlist ([Here](https://github.com/vinayak-7-0-3/AIO-Music-Helper/blob/main/bot/helpers/translations/tr_en.py#L52)). The values supported are shown in the dict [here](https://github.com/vinayak-7-0-3/AIO-Music-Helper/blob/main/bot/helpers/utils/metadata.py#L17). In simpler terms you can edit the captions.
 - Do consider to set quality settings for each platform from the settings panel for the better.
 
-## ⚛️ Deploying on Heroku
-
-<p><a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/MKKAMTO/AIO-DUMP/tree/alpha"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" alt="Deploy to Heroku" /></a></p>
 
 
-## Credits
-- **Yaronzz** - For [Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
-- [**Orpheus-DL Community**](https://github.com/yarrm80s/orpheusdl) - For KKBOX and Deezer 
-- **vitiko98** - For [qobuz-dl](https://github.com/vitiko98/qobuz-dl)
-- **ZSpotify** - For Spotify
+
